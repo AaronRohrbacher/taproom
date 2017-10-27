@@ -35,7 +35,7 @@ $ brew install node
 $ npm install && bower install && gulp build && gulp serve
 ```
 
-* _You should be seeing a website that looks like the screenshot below! If not, review your installations of Node.js, and Homebrew (if applicable). My apologies for my lack of knowledge beyond MacOS!
+* _You should be seeing a website that looks like the screenshot below! If not, review your installations of Node.js, and Homebrew (if applicable). My apologies for my lack of knowledge beyond MacOS!_
 
 ![alt text](img/screen.png)
 
