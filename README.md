@@ -23,7 +23,7 @@ $ git clone https://github.com/AaronRohrbacher/taproom
 $ cd taproom
 ```
 
-* _Install Node.js if you haven't already! If you're on a Mac, I recommend [Homebrew] (https://brew.sh/) for installation. If you're not on a Mac, or are unfamiliar with a command line, visit [NodeJs](https://nodejs.org) for installation instructions. The Node Package Manager (npm) is necessary to run this application. NOTE: Be sure your node version is at least 4.0, and that npm is at least 3.6!_
+* _Install Node.js if you haven't already! If you're on a Mac, I recommend [Homebrew](https://brew.sh/) for installation. If you're not on a Mac, or are unfamiliar with a command line, visit [NodeJs](https://nodejs.org) for installation instructions. The Node Package Manager (npm) is necessary to run this application. NOTE: Be sure your node version is at least 4.0, and that npm is at least 3.6!_
 
 * _Mac with Homebrew instructions (skip this step if you already have node.js installed):_
 ```
